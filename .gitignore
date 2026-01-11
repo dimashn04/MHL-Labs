@@ -4,3 +4,6 @@ frida-server-17.5.2-android-x86_64/
 *.zip
 *.xz
 *.pdf
+*.jadx
+
+resume.txt
