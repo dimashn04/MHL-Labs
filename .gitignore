@@ -5,5 +5,9 @@ frida-server-17.5.2-android-x86_64/
 *.xz
 *.pdf
 *.jadx
+*.ovpn
 
-resume.txt
+resume.
+
+# Not yet finished
+IoT-Connect/
